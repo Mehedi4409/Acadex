@@ -3,9 +3,9 @@ import Banner from './HomePageSections/Banner';
 
 const Home = () => {
     return (
-        <>
+        <div className='bg-white'>
             <Banner></Banner>
-        </>
+        </div>
     );
 };
 
